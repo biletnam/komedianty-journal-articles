@@ -7,11 +7,9 @@ tags:
   - тэг
 author: I am
 date: "2014"
-wordpress_id: 
-  - "666"
-  - 666
+wordpress_id: 666
 category: "Какая-то рубрика"
-release: № 5
+release: "5"
 ---
 
 ## Новое сообщение
