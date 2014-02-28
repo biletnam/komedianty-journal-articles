@@ -25,11 +25,6 @@ prose:
           element: text
           value: ""
           label: "Дата"
-      - name: "title"
-        field:
-          element: text
-          value: ""
-          label: "Заголовок"
       - name: "wordpress_id"
         field:
           element: number
