@@ -1,4 +1,6 @@
-komedianty-journal-articles
+Статьи журнала «Комедианты»
 ===========================
 
-Drafts of articles for the theater «Komedianty»
+[journal.komedianty.com][]
+
+Черновики статей для журнала театра «Комедианты»
