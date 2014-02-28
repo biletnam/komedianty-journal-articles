@@ -12,30 +12,36 @@ prose:
       - name: "tags"
         field:
           element: "multiselect"
-          label: "Add Tags"
+          label: "Тэги"
           placeholder: "Choose Tags"
           alterable: true
       - name: "author"
         field:
           element: "text"
+          label: "Автор"
           value: ""
       - name: "date"
         field:
           element: text
           value: ""
+          label: "Дата"
       - name: "title"
         field:
           element: text
           value: ""
+          label: "Заголовок"
       - name: "wordpress_id"
         field:
           element: number
           value: ""
+          label: "Wordpress ID"
       - name: "category"
         field:
           element: text
           value: ""
+          label: "Рубрика"
       - name: "release"
         field:
           element: text
           value: ""
+          label: "Выпуск"
