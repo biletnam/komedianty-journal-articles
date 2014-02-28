@@ -2,8 +2,9 @@ prose:
 	ignore:
 		- _config.yml
 		- _prose.yml
+        - README.md
 	metadata:
-		_posts:
+		"":
 			- name: "layout"
 				field:
 					element: "hidden"
