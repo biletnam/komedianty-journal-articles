@@ -1,41 +1,41 @@
 prose:
-	ignore:
-		- _config.yml
-		- _prose.yml
-        - README.md
-	metadata:
-		"":
-			- name: "layout"
-				field:
-					element: "hidden"
-					value: "default"
-			- name: "tags"
-				field:
-					element: "multiselect"
-					label: "Add Tags"
-					placeholder: "Choose Tags"
-					alterable: true
-			- name: "author"
-				field:
-					element: "text"
-					value: ""
-			- name: "date"
-				field:
-					element: text
-					value: ""
-			- name: "title"
-				field:
-					element: text
-					value: ""
-			- name: "wordpress_id"
-				field:
-					element: number
-					value: ""
-			- name: "category"
-				field:
-					element: text
-					value: ""
-			- name: "release"
-				field:
-					element: text
-					value: ""
+  ignore:
+    - _config.yml
+    - _prose.yml
+    - README.md
+  metadata:
+    "":
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "default"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          alterable: true
+      - name: "author"
+        field:
+          element: "text"
+          value: ""
+      - name: "date"
+        field:
+          element: text
+          value: ""
+      - name: "title"
+        field:
+          element: text
+          value: ""
+      - name: "wordpress_id"
+        field:
+          element: number
+          value: ""
+      - name: "category"
+        field:
+          element: text
+          value: ""
+      - name: "release"
+        field:
+          element: text
+          value: ""
