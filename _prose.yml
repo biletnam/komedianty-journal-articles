@@ -45,3 +45,8 @@ prose:
           element: text
           value: ""
           label: "Выпуск"
+      - name: "draft"
+        field:
+          element: checkbox
+          value: true
+          label: "Черновик"
